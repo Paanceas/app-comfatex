@@ -1,0 +1,7 @@
+{
+  "name": "app-comfatex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
